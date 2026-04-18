@@ -1,0 +1,47 @@
+body {
+    background-color: #141414;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 30px;
+    color: #e50914;
+}
+
+form {
+    margin: 30px;
+}
+
+select, button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    background-color: #e50914;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b20710;
+}
+
+.movies {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.card {
+    background-color: #222;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
