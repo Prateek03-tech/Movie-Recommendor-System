@@ -12,9 +12,10 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - Pandas
 - Scikit-learn
 - NLTK
-- Pycharm
-- Streamlit
-- Heroku
+- Render
+- Flask
+
+
 
 ## 📌 Features
 - Content-based filtering
